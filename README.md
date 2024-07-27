@@ -1,5 +1,5 @@
 <h1 align="center">
-  shoppingCart
+  Shopping Cart
 </h1>
 
 <p>
@@ -7,6 +7,7 @@
 </p>
 
 ## Preview
+https://github.com/user-attachments/assets/0038d74d-900b-437b-b43a-48f4e31353b7
 
 ## Steps
 **S1**<br>
